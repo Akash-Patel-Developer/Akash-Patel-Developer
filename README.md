@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently I studying Computer Science.
+Aspiring BCA student and full-stack web developer passionate about crafting innovative digital solutions. Dedicated to continuous learning and mastering diverse programming languages and frameworks. Committed to delivering high-quality, user-centric experiences in web development.
 
 
 ## 🌐 Socials:
